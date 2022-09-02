@@ -1,2 +1,2 @@
-# mine-sweeper
-A simple mine sweeper.
+# min-roob
+A simple Minroob Game.
